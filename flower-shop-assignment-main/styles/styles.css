@@ -45,3 +45,40 @@ nav{
     font-size: 20px;
     padding: 24px 35px;
 }
+
+/* 2nd page */
+
+
+.of-flower{
+    text-align: center;
+    padding-top: 30px;
+}
+.flower-list{
+    display: flex;
+    padding: 15px 15px 15px;
+}
+
+.flower-iteme{
+    padding: 30px 30px;
+}
+
+.service-list{
+    display: flex;
+    padding: 0;
+}
+
+.sing{background-color: #db85ac;
+    background-repeat: no-repeat;
+    background-position: bottom right;
+}
+
+.sing-headr{
+    background-color: #db85ac;
+    background-repeat: no-repeat;
+    background-position: bottom right;
+}
+
+.sing-pic{
+    width: 500px;
+    height: 620px;
+}
